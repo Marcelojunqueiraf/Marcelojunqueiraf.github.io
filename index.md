@@ -1,5 +1,5 @@
-* Calouro de Ciência da Computação na UnB
-* Intusiasta de tecnologia
+* Calouro de Ciência da Computação na UnB (Universidade de Brasília)
+* Entusiasta de tecnologia
 * 18 anos
 * **e-mail:** marcelojunqueiraf@gmail.com
 * **Github:** [Marcelojunqueiraf](https://github.com/Marcelojunqueiraf)
