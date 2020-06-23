@@ -1,4 +1,5 @@
 # Meu portfólio
+<<<<<<< HEAD
 ### Marcelo Junqueira Ferreira
 Calouro de Ciência da Computação na UnB
 Intusiasta de tecnologia
@@ -19,3 +20,4 @@ Entendimento de Orientação a Objeto
 Entendimento de algoritmos e estruturas de dados
 Básico de edição de fotos e vídeos
 Facilidade e vontade de aprender novas tecnologias
+>>>>>>> 0fe720def405eacde2f5d588d3947d47c61a6cfd
