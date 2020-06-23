@@ -2,8 +2,8 @@
 * Calouro de Ciência da Computação na UnB
 * Intusiasta de tecnologia
 * 18 anos
-* ** e-mail: ** marcelojunqueiraf@gmail.com
-* ** Github: ** Marcelojunqueiraf
+* **e-mail:** marcelojunqueiraf@gmail.com
+* **Github:** Marcelojunqueiraf
 * Fluente em Inglês, formado na Casa Thomas Jefferson
 ## Experiência
 * Participei da Olimpíada Brasileira de Robótica (OBR) e do Festival Marista de Robótica
