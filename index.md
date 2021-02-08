@@ -1,5 +1,4 @@
-* Calouro de Ciência da Computação na UnB (Universidade de Brasília)
-* Entusiasta de tecnologia
+* Aluno de Ciência da Computação na UnB (Universidade de Brasília)
 * 18 anos
 * **e-mail:** marcelojunqueiraf@gmail.com
 * **Github:** [Marcelojunqueiraf](https://github.com/Marcelojunqueiraf)
@@ -12,9 +11,9 @@
 * Participei de diversos contests de programação competitiva
 
 ## Habilidades
-* C e C++ intermediário
-* C# e python básico
+* Python e javascript intermediário
 * Noções de HTML, CSS e JavaScript
+* C e C++ intermediário
 * Entendimento de Orientação a Objeto
 * Entendimento de algoritmos e estruturas de dados
 * Básico em git, github e controle de versão
